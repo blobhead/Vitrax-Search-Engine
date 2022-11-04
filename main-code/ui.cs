@@ -10,7 +10,7 @@ namespace HelloWorld
     }
     static void Main(string[] args)
     {
-      MethodONe();
+      MethodOne();
       Console.WriteLine("Test Two");    
     }
   }
